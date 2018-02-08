@@ -1,0 +1,16 @@
+[submodule "BuildingEditor"]
+	path = BuildingEditor
+	url = https://github.com/RTSMinecraftMOD/BuildingEditor.git
+	branch = master
+[submodule "UnitEditor"]
+	path = UnitEditor
+	url = https://github.com/RTSMinecraftMOD/UnitEditor.git
+	branch = master
+[submodule "RTSUIEditor"]
+	path = RTSUIEditor
+	url = https://github.com/RTSMinecraftMOD/RTSUIEditor.git
+	branch = master
+[submodule "RTSGameModes"]
+	path = RTSGameModes
+	url = https://github.com/RTSMinecraftMOD/RTSGameModes.git
+	branch = master
